@@ -69,4 +69,5 @@ jobs:
         path: |
           vcpkg/buildtrees/*/*.txt
           vcpkg/buildtrees/*/*.log
+          build/fcmatch*/*.txt
 
